@@ -1,1 +1,18 @@
+How to add countlog.txt:
+first touch file
+$touch countlog.txt
+
+Add file
+$git add countlog.txt
+
+Edit file
+$gedit countlog.txt
+
+// inside the text edit page put the number below which is zero
+
 0
+
+Commit the change
+$git commit -u "all files"
+
+// for more info visit: http://justintadlock.com/web-design/counter
