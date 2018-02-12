@@ -3,7 +3,7 @@ first touch the file:
 $touch counter.php
 
 Add the file:
-$Add counter.php
+$git add counter.php
 
 Edit the file:
 $gedit counter.php
