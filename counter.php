@@ -1,3 +1,9 @@
+How to Add Counter.php:
+$touch counter.php
+$Add counter.php
+$gedit counter.php
+// inside text editor paste the script below
+
 <?php
 
 /* counter */
@@ -17,3 +23,5 @@ fwrite($datei, $count);
 fclose($datei);
 
 ?>
+
+// for more info visit http://justintadlock.com/web-design/counter
