@@ -1,4 +1,4 @@
-How to Add counter.php:
+How to create counter.php:
 first touch the file:
 $touch counter.php
 
