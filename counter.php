@@ -1,6 +1,6 @@
 How to create counter.php:
 first touch the file:
-$touch counter.php
+$touch counter.php 
 
 Add the file:
 $git add counter.php
