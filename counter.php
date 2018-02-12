@@ -1,6 +1,11 @@
-How to Add Counter.php:
+How to Add counter.php:
+first touch the file:
 $touch counter.php
+
+Add the file:
 $Add counter.php
+
+Edit the file:
 $gedit counter.php
 // inside text editor paste the script below
 
@@ -22,6 +27,9 @@ $datei = fopen("countlog.txt","w");
 fwrite($datei, $count);
 fclose($datei);
 
-?>
+?>\
+
+Commit all the changes
+$git commit -m "all files"
 
 // for more info visit http://justintadlock.com/web-design/counter
