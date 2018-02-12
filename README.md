@@ -1,4 +1,4 @@
-How to install Apache and PHP (LAMP) stack on Ubuntu 16.04
+How to install Linux, Apache, MySQL and PHP (LAMP) stack on Ubuntu 16.04
 
 1. Open Terminal 
 
@@ -45,3 +45,4 @@ It should display the php home page.
 
 Done!!!
 
+For more info: https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04
